@@ -1,5 +1,11 @@
-# SM4 Ejercicios de Programación Lineal
+# Ejercicios de Programación Lineal y Optimización con OR-Tools y PuLP
 
-Ejercicios de Programación Lineal de la plática de SM4
+Este repositorio contiene ejemplos y ejercicios de prueba que utilizan las bibliotecas de optimización `OR-Tools` de Google y `PuLP` en Python. Los ejercicios incluyen modelos de programación lineal, flujo de costo mínimo y problemas clásicos de optimización.
 
-Ejecuta los códigos de cada uno de los ejercicios.  
+## 📦 Dependencias
+
+Instala las dependencias necesarias con:
+
+```bash
+pip install -r requirements.txt
+
